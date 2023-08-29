@@ -1,0 +1,61 @@
+*{
+  color: rgb(187, 186, 186);
+}
+
+.contenant{
+  margin-bottom: 10%;
+
+}
+
+
+.containerOptions{
+
+  border-radius: 1rem;
+  background-color: #151515de;
+  padding: 1em;
+  width: max-content;
+  align-items: center;
+  /* height: 60vh; */
+}
+
+.containerOptions *{
+ padding: 1vh;
+}
+
+.containerButtons {
+  display: flex;
+
+}
+select {
+  background-color: aqua;
+}
+
+.buttonsOptionsWeb{
+  background-color: #a6a6a6;
+  color: #1f1f22;
+  border: none;
+  height: 7vh;
+  margin: auto;
+  width: 5rem;
+}
+
+/* pour modifier champs input du capodastre */
+.customInput{
+  margin: auto;
+}
+
+select{
+  background-color: green;
+}
+
+
+
+/* Cibler le champ de sélection Select2 */
+.customSelect {
+  /* Ajouter vos styles personnalisés ici */
+  background-color: #dd2222 !important;
+  color: #333333;
+  border: 1px solid #cccccc;
+  padding: 8px;
+  font-size: 14px;
+}
