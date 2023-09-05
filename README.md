@@ -3,7 +3,7 @@
 ➠ A tool for musicians.
 
 # Digital capodastre 🎸 🎻 🎤
-To convert chords and the singer's voice tune. 
+Converts chords and the singer's voice tune. 
 
 # Random tunes 🎲 🎼
 Generates randomly progression of chords to ease the initiation of a composition and/or a jam session.
