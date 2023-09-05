@@ -9,7 +9,7 @@
 Converts chords to adapt the music instruments to the singer's voice tune. 
 <br>
 
-# </h2> Random tunes 🎲 🎼</h2>
+# <h2> Random tunes 🎲 🎼</h2>
 Generates randomly progression of chords to ease the initiation of a composition and/or a jam session.
 
 
