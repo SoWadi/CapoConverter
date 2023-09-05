@@ -1,13 +1,13 @@
 # ⫷ CapoConverter ⫸
 
 ➠ A tool for musicians.
-<br><br>
+<br>
 
 # <h2>Digital capodastre 🎸 🎻 🎤 </h2>
 Converts chords to adapt the music instruments to the singer's voice tune. 
-<br><br>
+<br>
 
-# </h3> Random tunes 🎲 🎼</h3>
+# </h2> Random tunes 🎲 🎼</h2>
 Generates randomly progression of chords to ease the initiation of a composition and/or a jam session.
 
 
