@@ -1,4 +1,4 @@
-# ⫷ CapoConverter ⫸
+# CapoConverter
 
 ➠ A tool for musicians.
 <br>
