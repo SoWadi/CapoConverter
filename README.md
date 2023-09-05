@@ -1,6 +1,7 @@
 # CapoConverter
 
 ➠ A tool for musicians.
+<strong>https://capo-converter.vercel.app/ </strong>
 <br>
 
 # <h2>Digital capodastre 🎸 🎻 🎤 </h2>
@@ -10,7 +11,7 @@ Converts chords to adapt the music instruments to the singer's voice tune.
 # </h2> Random tunes 🎲 🎼</h2>
 Generates randomly progression of chords to ease the initiation of a composition and/or a jam session.
 
-<strong>https://capo-converter.vercel.app/ </strong>
+
 
 <br><br><br><br>
 
