@@ -10,7 +10,7 @@ Generates randomly progression of chords to ease the initiation of a composition
 
 
 
-<br>
+<br><br><br><br><br><br><br>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
