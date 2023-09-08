@@ -1,8 +1,8 @@
-# CapoConverter
+# CapoTranslator
 
 ➠ A tool for musicians.
 <br>
-<strong>https://capo-converter.vercel.app/ </strong>
+<strong> capo-translator.vercel.app </strong>
 
 <br>
 
